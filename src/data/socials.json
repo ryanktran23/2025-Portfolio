@@ -1,0 +1,19 @@
+{
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "href": "https://linkedin.com/in/ryan-tran-406124195",
+      "icon": "linkedin"
+    },
+    {
+      "name": "GitHub",
+      "href": "https://github.com/ryanktran23",
+      "icon": "github"
+    },
+    {
+      "name": "Email",
+      "href": "mailto:ryanktran23@gmail.com",
+      "icon": "mail"
+    }
+  ]
+}

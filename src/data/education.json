@@ -1,0 +1,24 @@
+{
+  "education": [
+    {
+      "name": "Old Dominion University",
+      "href": "https://www.odu.edu",
+      "title": "BS in Computer Science",
+      "logo": "/odu.png",
+      "start": "January 2019",
+      "end": "December 2023",
+      "description": [
+        "GPA: 3.5/4.0",
+        "President of ODU Student Management Committee for freshman and sophomore year",
+        "3-time recipient of the Dean's Honor List"
+      ],
+      "links": [
+        {
+          "name": "Final Year Project",
+          "href": "https://github.com/kaypineda/2023-Fall-CS411W-Gold-Prototype.git",
+          "icon": "globe"
+        }
+      ]
+    }
+  ]
+}
