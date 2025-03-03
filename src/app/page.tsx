@@ -15,7 +15,7 @@ import Link from "next/link";
 import path from "path";
 
 const blogDirectory = path.join(process.cwd(), "content");
-const TED_BIRTH_YEAR = 2001;
+const RYAN_BIRTH_YEAR = 2001;
 const LIMIT = 2; // max show 2
 
 export default async function Home() {
@@ -36,8 +36,8 @@ export default async function Home() {
           <h1 className="title text-5xl">hi ryan here 👋</h1>
           <p className="mt-4 font-light">
             {/* Update my age */}
-            {new Date().getFullYear() - TED_BIRTH_YEAR}
-            -year-old software developer from Virginia
+            {new Date().getFullYear() - RYAN_BIRTH_YEAR}
+            -year-old software developer based in Virginia
           </p>
           <p className="mt-2 font-light">
             I like to develop full-stack, eat a lot of new food, and get coding
