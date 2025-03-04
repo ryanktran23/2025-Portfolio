@@ -6,6 +6,7 @@ import Socials from "@/components/Socials";
 import { Button } from "@/components/ui/Button";
 import { getPosts } from "@/lib/posts";
 import {
+  ArrowDown,
   ArrowDownRight,
   ArrowRightIcon,
   FileDown
@@ -44,8 +45,8 @@ export default async function Home() {
             advice from my dog, Winnie.
           </p>
           <div className="mt-4 flex items-end gap-1">
-            <p className="font-semibold">Ask the chatbot anything about me</p>
-            <ArrowDownRight className="size-5 animate-bounce" />
+            <p className="font-semibold">Check out my socials!</p>
+            <ArrowDown className="size-5 animate-bounce" />
           </div>
           <section className="mt-8 flex items-center gap-8">
             <Link href="/Resume.pdf" target="_blank">
