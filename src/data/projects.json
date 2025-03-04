@@ -43,25 +43,6 @@
       ]
     },
     {
-      "name": "Portfolio 2023 (Outdated)",
-      "description": "Simple markdown portfolio made with Astro 🚀",
-      "href": "https://tedawf-dot-com.netlify.app",
-      "image": "/old-portfolio.png",
-      "tags": ["Astro", "TailwindCSS", "Netlify", "SEO"],
-      "links": [
-        {
-          "name": "Website",
-          "href": "https://tedawf-dot-com.netlify.app",
-          "icon": "globe"
-        },
-        {
-          "name": "Source",
-          "href": "https://github.com/tedawf/portfolio-2023",
-          "icon": "github"
-        }
-      ]
-    },
-    {
       "name": "Rapid Ride Fight (Final Year)",
       "description": "3D capture-the-flag, multiplayer boat fighting, with smart AI and water graphics",
       "href": "https://games.digipen.edu/games/rapid-ride-fight",
