@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "OrderUp Food Delivery App (WIP)",
+      "name": "OrderUP Food Delivery App (WIP)",
       "description": "Full stack food delivery application created with frontend website, admin panel, and backend server. Users can add food items to the cart, pay for the items, and place the order from the application. ",
       "image": "/food-delivery.png",
       "tags": [
