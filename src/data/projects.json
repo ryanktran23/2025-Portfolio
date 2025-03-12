@@ -7,7 +7,7 @@
       "image": "/weather-app.png",
       "tags": [
         "Weather API",
-        "React JS",
+        "ReactJS",
         "Javascript",
         "CSS",
         "HTML",
@@ -31,10 +31,10 @@
       "description": "Full stack food delivery application created with frontend website, admin panel, and backend server. Users can add food items to the cart, pay for the items, and place the order from the application. ",
       "image": "/food-delivery.png",
       "tags": [
-        "React JS",
+        "ReactJS",
         "MongoDB",
         "Express",
-        "Node JS",
+        "NodeJS",
         "Stripe",
         "Javascript",
         "CSS"
@@ -54,7 +54,7 @@
       "href": "https://ryanktran.com",
       "image": "/website-port.png",
       "tags": [
-        "Next JS",
+        "NextJS",
         "Typescript",
         "MDX",
         "CSS",
