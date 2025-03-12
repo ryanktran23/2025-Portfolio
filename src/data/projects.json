@@ -3,15 +3,22 @@
     {
       "name": "Weather App",
       "description": "Weather application that allows users to search for weather condition, temperature, humidity, and wind speed based on city name. Used Open Weather Map API to obtain real-time weather data.",
+      "href": "https://weather-app-tawny-two-55.vercel.app",
       "image": "/weather-app.png",
       "tags": [
         "Weather API",
         "React JS",
         "Javascript",
         "CSS",
-        "HTML"
+        "HTML",
+        "Vercel"
       ],
       "links": [
+        {
+          "name": "Website",
+          "href": "https://weather-app-tawny-two-55.vercel.app",
+          "icon": "globe"
+        },
         {
           "name": "Source",
           "href": "https://github.com/ryanktran23/Weather-App",
@@ -62,6 +69,21 @@
         {
           "name": "Source",
           "href": "https://github.com/ryanktran23/2025-Portfolio",
+          "icon": "github"
+        }
+      ]
+    },
+    {
+      "name": "Python Mini Projects",
+      "description": "Python projects to get myself accustomed to the language. Includes projects, such as shortest path finder, WPM typing test, and number guesser.",
+      "image": "/python-logo.png",
+      "tags": [
+        "Python"
+      ],
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://github.com/ryanktran23/Python-Mini-Projects",
           "icon": "github"
         }
       ]
