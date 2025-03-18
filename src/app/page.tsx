@@ -41,8 +41,15 @@ export default async function Home() {
             -year-old software developer based in Virginia
           </p>
           <p className="mt-2 font-light">
-            I like to develop full-stack, eat a lot of new food, and get coding
-            advice from my dog, Winnie.
+            I like to develop full-stack, take long walks on the beach, eat new food, and get coding
+            advice from my dog,{" "}
+            <Link
+              href="https://www.instagram.com/golden.winnie.retriever"
+              target="_blank"
+              className="link font-semibold"
+            >
+              Winnie.
+            </Link>
           </p>
           <div className="mt-4 flex items-end gap-1">
             <p className="font-semibold">Check out my socials!</p>
