@@ -33,7 +33,7 @@ export default function page() {
         <p>Here&apos;s what I might do with any information I collect:</p>
         <ul>
           <li>Make sure the site is running smoothly</li>
-          <li>Improve the website based on feedback you might share</li>
+          <li>Improve the website based on any feedback you might share</li>
           <li>Respond to your questions or feedback</li>
         </ul>
         <h2 className="title">Sharing Your Info (Spoiler: I Don&apos;t)</h2>
