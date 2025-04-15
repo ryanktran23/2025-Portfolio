@@ -41,7 +41,7 @@ export default async function Home() {
             -year-old software developer based in Virginia
           </p>
           <p className="mt-2 font-light">
-            I like to develop full-stack, take long walks on the beach, eat new food, and get coding
+            I like to learn new things, drink matcha, eat new food, and get coding
             advice from my dog,{" "}
             <Link
               href="https://www.instagram.com/golden.winnie.retriever"
