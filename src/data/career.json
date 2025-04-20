@@ -1,6 +1,16 @@
 {
   "career": [
     {
+      "name": "Resilience, Inc",
+      "href": "https://www.mylearningtools.org/",
+      "title": "Web Developer Intern",
+      "logo": "/res.png",
+      "start": "April 2025",
+      "description": [
+        "TBA"
+      ]
+    },
+    {
       "name": "Panda Express",
       "href": "https://www.pandaexpress.com/",
       "title": "Shift Leader",
