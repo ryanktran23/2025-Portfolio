@@ -3,7 +3,7 @@
     {
       "name": "Book Recommender",
       "description": "A book recommendation engine that helps readers discover their next favorite book.",
-      "href": "https://huggingface.co/spaces/ryanktran/Book-Recommender",
+      "href": "https://ryanktran-book-recommender.hf.space/",
       "image": "/book.png",
       "tags": [
         "LLMs",
@@ -18,7 +18,7 @@
       "links": [
         {
           "name": "Website",
-          "href": "https://huggingface.co/spaces/ryanktran/Book-Recommender",
+          "href": "https://ryanktran-book-recommender.hf.space/",
           "icon": "globe"
         },
         {
