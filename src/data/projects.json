@@ -1,8 +1,58 @@
 {
   "projects": [
     {
+      "name": "Book Recommender",
+      "description": "A book recommendation engine that helps readers discover their next favorite book.",
+      "href": "https://huggingface.co/spaces/ryanktran/Book-Recommender",
+      "image": "/book.png",
+      "tags": [
+        "LLMs",
+        "Python",
+        "Pandas",
+        "NLP",
+        "Text Classification",
+        "Hugging Face",
+        "Langchain",
+        "Semantic Search"
+      ],
+      "links": [
+        {
+          "name": "Website",
+          "href": "https://huggingface.co/spaces/ryanktran/Book-Recommender",
+          "icon": "globe"
+        },
+        {
+          "name": "Source",
+          "href": "https://github.com/ryanktran23/Book-Recommender",
+          "icon": "github"
+        }
+      ]
+    },
+    {
+      
+      "name": "OrderUP Food Delivery App (WIP)",
+      "description": "Full stack food delivery application created with frontend website, admin panel, and backend server.",
+      "image": "/food-delivery.png",
+      "tags": [
+        "ReactJS",
+        "MongoDB",
+        "Express",
+        "NodeJS",
+        "Stripe",
+        "Javascript",
+        "CSS"
+      ],
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://github.com/ryanktran23/Food-Delivery",
+          "icon": "github"
+        }
+      ]
+    },
+    {
       "name": "Weather App",
-      "description": "Weather application that allows users to search for weather condition, temperature, humidity, and wind speed based on city name. Used Open Weather Map API to obtain real-time weather data.",
+      "description": "Weather application that allows users to search for weather condition, temperature, humidity, and wind speed based on city name.",
       "href": "https://weather-app-tawny-two-55.vercel.app",
       "image": "/weather-app.png",
       "tags": [
@@ -27,30 +77,8 @@
       ]
     },
     {
-      "name": "OrderUP Food Delivery App (WIP)",
-      "description": "Full stack food delivery application created with frontend website, admin panel, and backend server. Users can add food items to the cart, pay for the items, and place the order from the application. ",
-      "image": "/food-delivery.png",
-      "tags": [
-        "ReactJS",
-        "MongoDB",
-        "Express",
-        "NodeJS",
-        "Stripe",
-        "Javascript",
-        "CSS"
-      ],
-      "links": [
-        {
-          "name": "Source",
-          "href": "https://github.com/ryanktran23/Food-Delivery",
-          "icon": "github"
-        }
-      ]
-    },
-
-    {
       "name": "2025 Website Portfolio",
-      "description": "Personal website portfolio to showcase my personal projects, education, and work experience. Contains a blog and a contact me feature.",
+      "description": "Personal website portfolio to showcase my personal projects, education, and work experience.",
       "href": "https://ryanktran.com",
       "image": "/website-port.png",
       "tags": [
