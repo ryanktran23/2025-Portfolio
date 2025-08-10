@@ -1,51 +1,41 @@
 {
   "career": [
     {
+      "name": "RecoveryTrek",
+      "href": "https://recoverytrek.com",
+      "title": "Junior Software Engineer",
+      "logo": "/res.png",
+      "start": "June 2025",
+      "end": "Present",
+      "description": [
+        "Collaborated with cross-functional teams to maintain and support multiple healthcare organizations across the U.S. using the Salesforce platform and the PROOF application while developing new features for both web and mobile platforms.",
+        "Developed backend services and APIs using Apex (Java), applying object-oriented programming principles to deliver scalable solutions.",
+        "Built and optimized complex SQL queries for data processing, reporting, and system integrations to enhance application performance.",
+        "Designed and implemented dynamic user interfaces with LWC framework (React) and automated workflows to improve system efficiency using agile development within a health tech environment."
+      ]
+    },
+    {
+      "name": "Altius",
+      "href": "https://www.altiusinnovate.com",
+      "title": "Software Engineer Intern",
+      "logo": "/pandaBear.png",
+      "start": "May 2025",
+      "end": "August 2025",
+      "description": [
+        "Developed a scalable full stack application called “Charlie”, an AI chatbot that helped clients automate work including calendar appointments, emails, and reminders.",
+        "Designed features using ReactJS for web, Python for backend services, and managed Firebase backend components.",
+        "Participated in code reviews, debugging, and agile workflows while optimizing applications for performance and maintainability."
+      ]
+    },
+    {
       "name": "Resilience, Inc",
       "href": "https://www.mylearningtools.org/",
       "title": "Web Developer Intern",
       "logo": "/res.png",
       "start": "April 2025",
       "description": [
-        "TBA"
-      ]
-    },
-    {
-      "name": "Panda Express",
-      "href": "https://www.pandaexpress.com/",
-      "title": "Shift Leader",
-      "logo": "/pandaBear.png",
-      "start": "May 2020",
-      "description": [
-        "Led a team of 8+ employees per shift, improving overall team performance and reducing training time for new hires by 25% through effective on-the-job coaching.",
-        "Trained and developed 10+ new team members, helping them progress to lead roles within six months and increasing internal promotion rates."
-      ]
-    },
-    {
-      "name": "Old Dominion University",
-      "href": "https://www.odu.edu",
-      "title": "Computer Science Teaching Assisstant",
-      "logo": "/odu.png",
-      "start": "May 2022",
-      "end": "December 2023",
-      "description": [
-        "Collaborated with course staff to redesign the course materials for the ‘Introduction to Programming with C++’ class, integrating new coding challenges and interactive activities that enhanced student engagement.",
-        "Held weekly office TA hours and responded to student inquiries via email, addressing an average of ten questions per week, which improved assignment completion rates by 15%.",
-        "Assisted students in debugging code and troubleshooting technical issues during programming labs, reducing error rates by 30% and improving project submission timelines."
-      ]
-    },
-
-    {
-      "name": "Best Buy Geek Squad",
-      "href": "https://www.bestbuy.com/",
-      "title": "Geek Squad Advanced Repair Agent",
-      "logo": "/geeksquad.png",
-      "start": "August 2021",
-      "end": "December 2023",
-      "description": [
-        "Troubleshot system failures and bugs and provided solutions to restore functionality, resolving 95% of cases on the first attempt, leading to a 20% increase in customer satisfaction.",
-        "Reduced average repair time by 30% through streamlined troubleshooting processes, resulting in an increase in daily repair capacity.",
-        "Trained and mentored five junior agents, improving team-wide repair accuracy by 15% and decreasing escalations by 25%."
+        "Worked with the development team to build responsive web interfaces using HTML, CSS, and JavaScript.",
+        "Developed internal tools, optimized SQL queries, and implemented backend functionality with PHP to improve site performance and usability."
       ]
     }
   ]
