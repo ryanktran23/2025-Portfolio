@@ -6,7 +6,6 @@
       "title": "Junior Software Engineer",
       "logo": "/res.png",
       "start": "June 2025",
-      "end": "Present",
       "description": [
         "Collaborated with cross-functional teams to maintain and support multiple healthcare organizations across the U.S. using the Salesforce platform and the PROOF application while developing new features for both web and mobile platforms.",
         "Developed backend services and APIs using Apex (Java), applying object-oriented programming principles to deliver scalable solutions.",
@@ -32,7 +31,8 @@
       "href": "https://www.mylearningtools.org/",
       "title": "Web Developer Intern",
       "logo": "/res.png",
-      "start": "April 2025",
+      "start": "March 2024",
+      "end": "May 2025",
       "description": [
         "Worked with the development team to build responsive web interfaces using HTML, CSS, and JavaScript.",
         "Developed internal tools, optimized SQL queries, and implemented backend functionality with PHP to improve site performance and usability."
